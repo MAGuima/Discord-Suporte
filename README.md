@@ -1,2 +1,3 @@
 # Discord Suporte
- Repositorio da ADO 2 - 3 Semestre Turma C - 2023
+ Repositorio 01 da ADO 2 - 3º Semestre Turma C - 2023
+ Prof Bruno Oliveira
